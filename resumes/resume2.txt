@@ -1,0 +1,4 @@
+Jane Smith
+Email: jane@example.com
+Skills: Java, Web Development, Django, HTML, CSS
+Experience: 3 years as Full Stack Developer at XYZ Ltd.

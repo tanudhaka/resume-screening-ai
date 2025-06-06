@@ -1,0 +1,4 @@
+John Doe
+Email: john@example.com
+Skills: Python, Machine Learning, SQL, Data Analysis
+Experience: 2 years as Data Analyst at ABC Corp.

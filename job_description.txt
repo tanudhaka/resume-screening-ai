@@ -1,0 +1,1 @@
+We are looking for a Data Analyst with experience in Python, SQL, data visualization (Power BI/Tableau), and statistical analysis. The ideal candidate should be able to clean, process, and interpret large datasets and present insights effectively.
